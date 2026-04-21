@@ -1,0 +1,14 @@
+/target/
+/.idea/
+/.vscode/
+/.cursor/
+*.class
+*.log
+*.tmp
+
+/database/*.db
+/database/*.mv.db
+/database/*.trace.db
+/receipts/*.pdf
+
+/config.properties
